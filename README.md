@@ -25,7 +25,7 @@ Overall the objective is to provide an interactive dashboard that supports fast,
 10. How does monthly revenue trend across 2022–2024?
 11. What is the overall cost-to-revenue relationship?
 
-Dashboard Interaction <a href="https://github.com/noureeen/DataAnalysis_SalesDistribution/blob/main/SalesMarketing.pbix">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/noureeen/DataAnalysis_SalesDistribution/blob/main/SalesMarketing.pdf">View Dashboard</a>
 
 ## Process 
 - Verify data for any missing values and anomalies, and sort out the same.
