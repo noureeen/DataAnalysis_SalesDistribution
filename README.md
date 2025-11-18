@@ -11,3 +11,18 @@ Overall the objective is to provide an interactive dashboard that supports fast,
 ## Dataset used 
 - <a href="https://github.com/noureeen/DataAnalysis_SalesDistribution/blob/main/SalesDataNew.xlsx">Dataset</a>
 
+## Questions (KPIs)
+
+1. What is the total revenue for each year?
+2. What is the total profit and profit margin?
+3. Which sales channel generated the highest revenue?
+4. Which region performed the best in sales?
+5. Which lead source brought the most revenue?
+6. Which marketing campaign performed the best?
+7. What is the average conversion rate?
+8. Which products generated the highest profit?
+9. Which products have the most views but low sales?
+10. How does monthly revenue trend across 2022–2024?
+11. What is the overall cost-to-revenue relationship?
+
+
