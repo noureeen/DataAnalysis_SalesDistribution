@@ -6,4 +6,8 @@ This project analyzes sales and marketing performance from 2022–2024, giving a
 
 It also evaluates the impact of different lead sources and marketing campaigns, showing which strategies contribute most to growth. Additionally, the dashboard compares product performance by revenue, cost, and profit to highlight strong and weak products.
 
-Overall, the objective is to provide an interactive dashboard that supports fast, data-driven decisions for better business planning.
+Overall the objective is to provide an interactive dashboard that supports fast, data-driven decisions for better business planning.
+
+## Dataset used 
+- <a href="https://github.com/noureeen/DataAnalysis_SalesDistribution/blob/main/SalesDataNew.xlsx">Dataset</a>
+
