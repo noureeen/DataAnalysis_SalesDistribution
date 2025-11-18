@@ -1,6 +1,6 @@
-Sales & Marketing Performance Dashboard – Power BI 
+# Sales & Marketing Performance Dashboard – Power BI 
 
-Project Objectives
+## Project Objectives
 
 This project analyzes sales and marketing performance from 2022–2024, giving a clear view of overall business trends. It identifies revenue patterns, profitable sales channels, and top-performing regions to understand where the business performs best.
 
