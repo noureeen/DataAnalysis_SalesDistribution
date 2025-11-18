@@ -34,6 +34,9 @@ Dashboard Interaction <a href="https://github.com/noureeen/DataAnalysis_SalesDis
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard  
+<img width="1074" height="621" alt="SalesMarketing_1" src="https://github.com/user-attachments/assets/7039fbb7-eff6-4807-aa37-696c9a767a6f" />
+<img width="1074" height="621" alt="SalesMarketing_2" src="https://github.com/user-attachments/assets/f4151028-e91a-40e3-9427-05ae5c924045" />
 
-<img width="1074" height="621" alt="SalesMarketing_1" src="https://github.com/user-attachments/assets/20ba7689-162c-4563-88e1-0665b4b0062a" />
+
+
 
